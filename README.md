@@ -8,9 +8,9 @@ An advocacy website highlighting the struggles of pet owners who face strict rul
 
 ## 🌐 Live Site
 
-> `https://yourusername.github.io/paws-and-rules`
+> `https://VitoM420.github.io/paws-and-rules`
 
-*(Replace `yourusername` with your actual GitHub username)*
+*(Replace `VitoM420` with your actual GitHub username)*
 
 ---
 
